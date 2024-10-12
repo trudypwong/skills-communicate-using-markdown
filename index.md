@@ -1,3 +1,4 @@
+###### 1. HEADERS
 # Header 1
 ## Header 2
 ### Header 3
@@ -7,4 +8,27 @@
 
 Regular text
 
+
+
+###### 2. IMAGES
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+###### 3. CODE BLOCKS
+
+###### Regular
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+###### JavaScript
+```javascript
+var myVar = "Hello, world!";
+```
+
+###### HTML
+```html
+<p>Test</p>
+```
